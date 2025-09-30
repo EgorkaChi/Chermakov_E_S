@@ -8,3 +8,4 @@ e=d-6
 p=d*d
 >>>>>>> main
 f=p+e
+f=2*f
