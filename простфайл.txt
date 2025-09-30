@@ -2,5 +2,9 @@ a=int(input())
 b=int(input())
 c=a-b
 d=a*c+5
+<<<<<<< HEAD
 e=d-6
 p=d*e
+=======
+p=d*d
+>>>>>>> main
